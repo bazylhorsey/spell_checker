@@ -3,6 +3,8 @@ description = "A spell checking library you can provide a dictionary and a file 
 name = "spell_checker"
 version = "0.1.0"
 edition = "2021"
+license = "gnu"
+author = "Bazyl Horsey"
 
 [lib]
 name = "spell_checker"
