@@ -4,7 +4,8 @@ name = "spell_checker"
 version = "0.1.0"
 edition = "2021"
 license = "gnu"
-author = "Bazyl Horsey"
+authors = ["Bazyl Horsey<bhorsey16@gmail.com>"]
+
 
 [lib]
 name = "spell_checker"
